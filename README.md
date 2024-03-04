@@ -1,4 +1,3 @@
-# Regex-Matching-Web-App-Development
 # Regex Matching Web Application with Flask
 
 ## Overview
